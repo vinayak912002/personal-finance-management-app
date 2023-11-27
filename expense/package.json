@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "node": "^21.1.0",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-cookies": "^0.1.1",
+    "react-datepicker": "^4.21.0",
+    "react-dom": "^17.0.2",
+    "react-onclickoutside": "^6.13.0",
+    "react-popper": "^2.3.0",
+    "react-router": "^6.19.0",
+    "react-router-dom": "^5.3.4",
+    "reactstrap": "^9.2.1",
+    "router-react": "^0.0.1",
+    "tar": "^6.2.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
